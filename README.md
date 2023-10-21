@@ -6,6 +6,8 @@ https://speakerdeck.com/otanet/tai-tian-bo-san-0f3d886c-b415-4474-a7b2-46a6c736a
 URL of LT
 https://chatgptclub.connpass.com/event/298703/
 
+github
+https://github.com/otanet/LT_GPT-4V_VE_20231021
 --
 From Textual Entailment in BERT to Visual Entailment in GPT-4V
 -テキスト含意関係から画像の含意関係へ-
